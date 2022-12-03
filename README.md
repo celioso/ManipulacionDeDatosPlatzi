@@ -1,2 +1,2 @@
-# ManipulacionDeDatosPlatzy
+# ManipulacionDeDatosPlatzi
 Pandas and Numpy
